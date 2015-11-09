@@ -1,0 +1,3 @@
+Hi, I have a confession to make. I regret using GitHub Desktop Mac. 
+I'll just stick to pushing buttons on the site or typing/copy and paste command lines (working on it).
+Status: currently following Git and github tutorial on youtube. 

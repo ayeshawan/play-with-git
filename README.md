@@ -1,4 +1,4 @@
-##Play with git
+## Play with git
 
 Hello girls, we are going to have fun playing with git. Try to do all the steps listed here to be a git junior.
 
@@ -8,7 +8,7 @@ we are just working with `.txt` (you can open those files with pretty much anyth
 I'm not gonna detailed the actual commands, that's for you to figure out ;)
 Shout on the slack channel / meetup discussion board if you are stuck.
 
-####Steps for fun with git
+#### Steps for fun with git
 
 - Clone this repo
     - Extra fake points if you *do* clone the repo in the server, so that you can see it in the broswer if you go to an address like `http://localhost/stripegirls-list.txt`. This is in prep for creating the site repo for next meetup.
